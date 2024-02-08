@@ -1,0 +1,39 @@
+[33mcommit 4fd7890b648b3d7cd60f708b6cf03538b6f9f64b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Diego Vieira <diego.silva312@gmail.com>
+Date:   Fri Feb 2 16:18:57 2024 -0300
+
+    meu primeito commit
+
+[33mcommit 07be04e8ddd9958995f0aaf4897a7b34839c5714[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: dee0608 93fe601
+Author: senaidev-sp <114820859+senaidev-sp@users.noreply.github.com>
+Date:   Sun Oct 2 07:28:18 2022 -0300
+
+    Merge pull request #1 from senaidev-sp/feature1
+    
+    Feature1
+
+[33mcommit 93fe6011547a754a2b09cd59b7d49f06f4f2c58a[m[33m ([m[1;31morigin/feature1[m[33m)[m
+Merge: 9e2b788 dee0608
+Author: fulano de tal <senaidevsp@gmail.com>
+Date:   Sun Oct 2 07:26:47 2022 -0300
+
+    resolvendo conflitos pela branch feature1
+
+[33mcommit 9e2b788b63f233aea81e4fb62ee12d6dfeb53eed[m
+Author: fulano de tal <senaidevsp@gmail.com>
+Date:   Sun Oct 2 07:20:07 2022 -0300
+
+    segundo commit na branch feature1
+
+[33mcommit dee0608ce1328a3fd7d2e676d55c7a8080be023f[m
+Author: fulano de tal <senaidevsp@gmail.com>
+Date:   Sun Oct 2 07:18:18 2022 -0300
+
+    segundo commit na branch main
+
+[33mcommit a3ede5c8a9066c5be9d3dfc47c8e41107ae2f32d[m
+Author: fulano de tal <senaidevsp@gmail.com>
+Date:   Sun Oct 2 07:10:18 2022 -0300
+
+    primeiro commit na branch main
